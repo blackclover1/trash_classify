@@ -1,5 +1,5 @@
 # trash_classify
-响应习大大的号召，进行垃圾分类。基于OpenCV和TensorFlow的生活垃圾图像分类识别。
+
 
 ## 项目demo说明
 * trash_classify_demo1
